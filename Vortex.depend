@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1576092482 source:e:\ds with c\vortex\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<conio.h>
+	<string>
+	<sstream>
+	<windows.h>
+	<ctime>
+
+1577162554 source:h:\data structure\colleage content\vortex\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<conio.h>
+	<string>
+	<sstream>
+	<windows.h>
+	<ctime>
+
